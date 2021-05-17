@@ -1,0 +1,30 @@
+    1  pwd
+    2  ls
+    3  ls - l
+    4  ls-l
+    5  ls -l
+    6  ll
+    7  cd ..
+    8  pwd
+    9  ll
+   10  cd Desktop
+   11  cd ../..
+   12  pwd
+   13  cd gniko
+   14  cd Desktop
+   15  mkdir test
+   16  cd test
+   17  touch.txt
+   18  touch test.txt
+   19  nano.txt
+   20  nano.test
+   21  nano test.txt
+   22  cat test.txt
+   23  history >istorija.txt
+   24  cat istorija.txt
+   25  exit
+   26  ll
+   27  mkdir noviDir
+   28  cd noviDir
+   29  touch fajl.txt
+   30  history > file.txt
